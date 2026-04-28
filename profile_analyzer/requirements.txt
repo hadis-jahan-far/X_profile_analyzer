@@ -1,0 +1,9 @@
+fastapi==0.118.3
+google-cloud-storage==3.6.0
+google-genai==1.51.0
+openai==2.8.1
+pydantic==2.12.4
+pydantic-settings==2.12.0
+pydantic_core==2.41.5
+uvicorn==0.38.0
+google-cloud-tasks

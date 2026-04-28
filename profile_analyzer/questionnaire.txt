@@ -1,0 +1,15 @@
+Topic: [this is the topic of your interest]
+            Categorize their stance into exactly one of the following four categories:
+            Category 1: [instruction]         
+            Category 2: [instruction]
+...
+
+---
+Topic: [this is the topic of your interest]
+            Categorize their stance into exactly one of the following four categories:
+            Category 1: [instruction]         
+            Category 2: [instruction]         
+            
+
+---
+...
